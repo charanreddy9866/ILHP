@@ -44,20 +44,7 @@ Prerequisites
 
 Ensure you have Python installed (version 3.x recommended).
 
-Steps
 
-Clone this repository:
-
-git clone https://github.com/yourusername/reliable-data-transfer.git
-cd reliable-data-transfer
-
-Run the script:
-
-python main.py
-
-The simulation will start, and you will see logs for sent packets, received packets, acknowledgments, and retransmissions.
-
-Example Output
 
 Packet 0 sent, corrupted: False
 Packet 1 sent, corrupted: False
